@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akcarney
-- 👀 I’m interested in software development and webdesign
-- 🌱 I’m currently learning RISC-V assembly
-- 💞️ I’m looking to collaborate on: nothing at the moment :^)
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning data visualization
+- 💞️ I’m looking to collaborate on: nothing at the moment
 - 📫 How to reach me: ava.k.carney@gmail.com
 
 <!---
